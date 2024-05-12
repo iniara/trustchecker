@@ -5,8 +5,8 @@ This proposal aims to develop a document security and authentication system that
 
 ---
 
-## How this project relates to SDGs
-
+## Relates to SDGs
+![til](https://github.com/iniara/trustchecker/blob/main/Doc/SDG's.gif)
 ## Topik and Motivation
 
 ## Technology Used
