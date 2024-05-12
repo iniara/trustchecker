@@ -15,6 +15,8 @@ This proposal aims to develop a document security and authentication system that
 - [Express.js](https://expressjs.com/)
 - [Axios](https://axios-http.com/docs/intro) 
 
+---
+
 ## Our Team
 - Nada Fadhiilah Balqis (1217050107)
 - Nanda Tiara Sabina Hidayatulloh (1217050108)
