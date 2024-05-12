@@ -8,6 +8,8 @@ This proposal aims to develop a document security and authentication system that
 ## Relates SDG's
 ![til](https://github.com/iniara/trustchecker/blob/main/Doc/SDG's.gif)
 ## Topik and Motivation
+![alt text](https://github.com/iniara/trustchecker/blob/main/Doc/Qur'an.png?raw=true)
+![alt text](https://github.com/iniara/trustchecker/blob/main/Doc/Hadith.png?raw=true)
 
 ## Technology Used
 - [MongoDB](https://www.mongodb.com/ja-jp) and [MySQL](https://www.mysql.com/)
