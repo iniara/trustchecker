@@ -1,16 +1,24 @@
+![alt text](https://github.com/iniara/trustchecker/blob/main/Doc/Cover.png?raw=true)
 # TRUSTCHECKER
+### Verifying the Authenticity Page File
+This proposal aims to develop a document security and authentication system that utilizes the Secure Hash Algorithm-1 (SHA-1) within the context of distributed computing. The system is designed to verify the authenticity and integrity of documents by generating digital signatures using SHA-1. This project will explore distributed computing concepts to enhance the speed and efficiency of the document authentication process. With a focus on SHA-1 implementation and distributed computing, the project aims to provide a reliable and efficient solution for verifying document authenticity in distributed environments.
+
+---
+
+## How this project relates to SDGs
+
+## Topik and Motivation
+
+## Technology Used
+- [MongoDB](https://www.mongodb.com/ja-jp) and [MySQL](https://www.mysql.com/)
+- [JavaScript](https://www.javascript.com/)
+- [Express.js](https://expressjs.com/)
+- [Axios](https://axios-http.com/docs/intro) 
 
 ## Our Team
 - Nada Fadhiilah Balqis (1217050107)
 - Nanda Tiara Sabina Hidayatulloh (1217050108)
 - Nasywah Darraini (1217050109)
 - Nur Halizah (1217050113)
-
-## About TRUSTCHECKER
-Banyaknya berita hoaks yang beredar, membutuhkan suatu teknologi yang mampu mengatasinya. Hal ini dikarenakan berita hoaks memiliki dampak merugikan seperti menimbulkan kebingungan, memicu konflik, dan merusak persepsi seseorang terhadap suatu hal. Berita hoaks hadir dalam berbagai bentuk, baik tulisan maupun lisan, serta dalam berbagai format media.
-
-Trust Checker merupakan sebuah sistem yang dibangun dan dirancang untuk memeriksa keaslian dari sebuah file. Tidak hanya untuk mengatasi dan menghindari berita hoaks, trust checker bertujuan untuk membantu dalam menyelesaikan sebuah kasus untuk memperkuat barang bukti. 
-
-Trust Checker dapat digunakan untuk memverifikasi sumber informasi, menganalisis apakah berita yang terdapat di dalam sebuah file tersebut diproduksi oleh sumber yang terpercaya, dan memverifikasi keabsahan informasi yang disajikan. Selain itu, Trust Checker membantu memastikan bahwa file tersebut belum diubah atau dimanipulasi oleh pihak yang tidak sah sebelum digunakan.
 
 ## Capstone Project Proposal
