@@ -16,7 +16,17 @@ This proposal aims to develop a document security and authentication system that
 - [JavaScript](https://www.javascript.com/)
 - [Express.js](https://expressjs.com/)
 - [Axios](https://axios-http.com/docs/intro)
-
+- 
+## Promotion Video
+```
+https://www.instagram.com/reel/C620Tz1L7zq/?igsh=dzBpcXlzdHdzeTVz
+```
+## Our Team
+- Nada Fadhiilah Balqis (1217050107)
+- Nanda Tiara Sabina Hidayatulloh (1217050108)
+- Nasywah Darraini (1217050109)
+- Nur Halizah (1217050113)
+---
 ## References
 1. Toruan, D. (2021). Implementasi Metode Secure Hash Algorithm-1 Untuk Mendeteksi Keaslian File Dokumen. Journal of Information System Research (JOSH), 2(4), 227-234. https://doi.org/10.47065/josh.v2i4.568.
 2. Quilala, R. L., Quilala, T. F. G. (2022). Document verification using quick response code with modified secure hash algorithm-1 and modified blowfish algorithm. The Indonesian Journal of Electrical Engineering and Computer Science (IJEECS), Vol. 28, No.1, 470-479. http://doi.org/10.11591/ijeecs.v28.i1.pp470-479
@@ -28,14 +38,3 @@ This proposal aims to develop a document security and authentication system that
 8. Andrian, D. P. E., dkk. (2021). Karakteristik Metadata Pada Sharing File Di Media Sosial Untuk Mendukung Analisis Bukti Digital. Jurnal Ilmiah Sinus (JIS), Vol. 19, No. 1. https://doi.org/10.30646/sinus.v19i1.494
 9. Anggriani, L. (2021). Penerapan Metode Gost Untuk Mendeteksi Keaslian File Dokumen. TIN: Terapan Informatika Nusantara, Vol. 1, No. 9, 445-450.
 10. Samsir. (2022). Perancangan Aplikasi Deteksi Orisinalitas File Dokumen Menerapkan Algoritma Ripe-MD 128. Journal of Computer System and Informatics (JoSYC), Vol. 3, No. 2, 89−92. DOI 10.47065/josyc.v3i2.954
-
----
-## Promotion Video
-```
-https://www.instagram.com/reel/C620Tz1L7zq/?igsh=dzBpcXlzdHdzeTVz
-```
-## Our Team
-- Nada Fadhiilah Balqis (1217050107)
-- Nanda Tiara Sabina Hidayatulloh (1217050108)
-- Nasywah Darraini (1217050109)
-- Nur Halizah (1217050113)
