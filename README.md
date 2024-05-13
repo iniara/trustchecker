@@ -21,6 +21,9 @@ This proposal aims to develop a document security and authentication system that
 ```
 https://www.instagram.com/reel/C620Tz1L7zq/?igsh=dzBpcXlzdHdzeTVz
 ```
+## Capstone Project Proposal
+[Capstone Project Proposal Trust Checker](Capstone_Project_Proposal_Trust_Checker.pdf)
+
 ## Our Team
 - Nada Fadhiilah Balqis (1217050107)
 - Nanda Tiara Sabina Hidayatulloh (1217050108)
