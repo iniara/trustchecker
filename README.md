@@ -40,6 +40,7 @@ https://www.youtube.com/
 [Capstone Project Proposal Trust Checker](Capstone%20Project%20Proposal%20Trust%20Checker.pdf)
 
 ## Paper
+[Paper Trust Checker](Paper%20Trust%20Checker.pdf)
 
 ## Project Repository
 [Frontend](https://github.com/nadqz/trust-checker)</br>
