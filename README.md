@@ -1,4 +1,4 @@
-![Banner](https://github.com/iniara/trustchecker/blob/main/Doc/Cover.png?raw=true)
+![Banner](https://github.com/iniara/trustchecker/blob/main/Doc/Banner.png?raw=true)
 # TRUSTCHECKER
 ### Verifying the Authenticity Page File
 This proposal aims to develop a document security and authentication system that utilizes the Secure Hash Algorithm-1 (SHA-1) within the context of distributed computing. The system is designed to verify the authenticity and integrity of documents by generating digital signatures using SHA-1. This project will explore distributed computing concepts to enhance the speed and efficiency of the document authentication process. With a focus on SHA-1 implementation and distributed computing, the project aims to provide a reliable and efficient solution for verifying document authenticity in distributed environments.
