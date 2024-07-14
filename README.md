@@ -43,8 +43,8 @@ https://www.youtube.com/
 [Paper Trust Checker](Paper%20Trust%20Checker.pdf)
 
 ## Project Repository
-[Frontend](https://github.com/nadqz/trust-checker)</br>
-[Backend](https://github.com/nadqz/trustChecker)
+- [Frontend](https://github.com/nadqz/trust-checker)
+- [Backend](https://github.com/nadqz/trustChecker)
 
 ## Our Team
 - Nada Fadhiilah Balqis (1217050107)
