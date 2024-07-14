@@ -12,17 +12,38 @@ This proposal aims to develop a document security and authentication system that
 ![alt text](https://github.com/iniara/trustchecker/blob/main/Doc/Hadith.png?raw=true)
 
 ## Technology Used
-- [MongoDB](https://www.mongodb.com/ja-jp) and [MySQL](https://www.mysql.com/)
+Frontend:
+- [React](https://react.dev/)
 - [JavaScript](https://www.javascript.com/)
-- [Express.js](https://expressjs.com/)
-- [Axios](https://axios-http.com/docs/intro)
+- [Axios](https://axios-http.com/docs/intro) </br>
+Backend:
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- [hashlib](https://docs.python.org/3/library/hashlib.html)
+- [Flask-CORS](https://pypi.org/project/Flask-Cors/) <br>
+Infrastructure:
+- [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/what-is-aks)
+- [Alibaba Cloud Container Service for Kubernetes (ACK)](https://www.alibabacloud.com/en/product/kubernetes?_p_lc=1#:~:text=Alibaba%20Cloud%20Container%20Service%20for%20Kubernetes%20%28ACK%29%20integrates,provides%20full%20lifecycle%20management%20of%20enterprise-class%20containerized%20applications.)
+- [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
+- [Alibaba Cloud Server Load Balancer (SLB)](https://www.alibabacloud.com/en/product/server-load-balancer?_p_lc=1)
   
 ## Promotion Video
 ```
 https://www.instagram.com/reel/C620Tz1L7zq/?igsh=dzBpcXlzdHdzeTVz
 ```
+
+## Demonstration Video
+```
+https://www.youtube.com/
+```
+
 ## Capstone Project Proposal
 [Capstone Project Proposal Trust Checker](Capstone%20Project%20Proposal%20Trust%20Checker.pdf)
+
+## Papper
+
+## Project Repository
+[Frontend](https://github.com/nadqz/trust-checker)
+[Backend](https://github.com/nadqz/trustChecker)
 
 ## Our Team
 - Nada Fadhiilah Balqis (1217050107)
