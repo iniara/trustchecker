@@ -33,7 +33,7 @@ https://www.instagram.com/reel/C620Tz1L7zq/?igsh=dzBpcXlzdHdzeTVz
 
 ## Demonstration Video
 ```
-https://www.youtube.com/
+https://youtu.be/eJu7Y9FYm5M
 ```
 
 ## Capstone Project Proposal
