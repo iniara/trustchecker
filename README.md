@@ -42,7 +42,7 @@ https://www.youtube.com/
 ## Papper
 
 ## Project Repository
-[Frontend](https://github.com/nadqz/trust-checker)
+[Frontend](https://github.com/nadqz/trust-checker)</br>
 [Backend](https://github.com/nadqz/trustChecker)
 
 ## Our Team
