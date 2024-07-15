@@ -1,7 +1,7 @@
 ![Banner](https://github.com/iniara/trustchecker/blob/main/Doc/Banner.png?raw=true)
+[![Demontration Web](https://img.shields.io/badge/Demo%20on-Web-yellow)](https://trust-checker.vercel.app/)
+[![Demontration Video](https://img.shields.io/badge/Demo%20on-Web-blue)](https://youtu.be/eJu7Y9FYm5M)
 # TRUSTCHECKER
-Demontration: [Trust Checker](https://trust-checker.vercel.app/)
-
 ### Verifying the Authenticity Page File
 This proposal aims to develop a document security and authentication system that utilizes the Secure Hash Algorithm-1 (SHA-1) within the context of distributed computing. The system is designed to verify the authenticity and integrity of documents by generating digital signatures using SHA-1. This project will explore distributed computing concepts to enhance the speed and efficiency of the document authentication process. With a focus on SHA-1 implementation and distributed computing, the project aims to provide a reliable and efficient solution for verifying document authenticity in distributed environments.
 
@@ -31,11 +31,6 @@ Infrastructure:
 ## Promotion Video
 ```
 https://www.instagram.com/reel/C620Tz1L7zq/?igsh=dzBpcXlzdHdzeTVz
-```
-
-## Demonstration Video
-```
-https://youtu.be/eJu7Y9FYm5M
 ```
 
 ## Capstone Project Proposal
