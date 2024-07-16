@@ -28,7 +28,8 @@ Infrastructure:
 - [Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
 - [Alibaba Cloud Server Load Balancer (SLB)](https://www.alibabacloud.com/en/product/server-load-balancer?_p_lc=1)
 
-## Monitoring
+## Monitoring Load Balancer
+![til](https://github.com/iniara/trustchecker/blob/main/Doc/GIF.gif)
 
 ## Promotion Video
 ```
